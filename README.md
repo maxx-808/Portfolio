@@ -13,3 +13,5 @@ updated resume:
 
 made it more in tune with my current future plans
 added new info about the class I am in
+
+deployable link: https://maxx-808.github.io/Portfolio/
