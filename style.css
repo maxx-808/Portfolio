@@ -17,3 +17,18 @@ ul {
 li {
   list-style: none;
 }
+
+img {
+  margin: 20px;
+  margin-left: 0;
+  width: 60%;
+}
+
+#contact {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+#title {
+  text-align: center;
+}
